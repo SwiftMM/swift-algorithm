@@ -4,5 +4,6 @@
         <page name='Stack'/>
         <page name='ClimbStairs'/>
         <page name='ValidParentheses'/>
+        <page name='TwoSums'/>
     </pages>
 </playground>
