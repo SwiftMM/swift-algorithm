@@ -6,5 +6,7 @@
         <page name='ValidParentheses'/>
         <page name='TwoSums'/>
         <page name='ReverseInteger'/>
+        <page name='LongestPalindrome'/>
+        <page name='Queue'/>
     </pages>
 </playground>
