@@ -8,5 +8,6 @@
         <page name='ReverseInteger'/>
         <page name='LongestPalindrome'/>
         <page name='Queue'/>
+        <page name='MaxDepthOfBinaryTree'/>
     </pages>
 </playground>
